@@ -1,0 +1,8 @@
+Canada,https://en.wikipedia.org/wiki/Canada
+China,https://en.wikipedia.org/wiki/China
+US,https://en.wikipedia.org/wiki/United_States
+Korea,https://en.wikipedia.org/wiki/Korea
+UK,https://en.wikipedia.org/wiki/United_Kingdom
+France,https://en.wikipedia.org/wiki/France
+Turkey,https://en.wikipedia.org/wiki/Turkey
+Italy,https://en.wikipedia.org/wiki/Italy
